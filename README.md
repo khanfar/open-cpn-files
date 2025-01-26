@@ -2,8 +2,8 @@
 this works and tested in opencpn-msvc_5.6.2_setup.exe  v5.6.2
 -------------------------------------------------------------
 
---------------   AIS  Decoder and view in OpenCPN   ----------------
-            AIS channels at 161.975 MHz and 162.025 MHz)
+--------------   AIS  Decoder and view in OpenCPN   ---------------
+AIS channels at 161.975 MHz and 162.025 MHz)
 -------------------------------------------------------------------
 
 
